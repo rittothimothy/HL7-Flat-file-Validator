@@ -21,8 +21,10 @@ Dependancies
 
 How to run
 ----------
+Extract zip folder.
+Use command prompt and naviggate to solution file(.sln) containing folder and type command 'dotnet build'
+Use command prompt and navigate to project 'HL7 Flat file Validator' and type command 'dotnet run'
 
-Use command prompt and navigate to project 'HL7 Flat file Validator' .Type command 'dotnet run' in command prompt.
 
 
 Functional Reference
