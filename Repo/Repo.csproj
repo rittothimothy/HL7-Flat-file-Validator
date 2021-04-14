@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DTO\DTO.csproj" />
+    <ProjectReference Include="..\IRepo\IRepo.csproj" />
+    <ProjectReference Include="..\UtlityServices\UtilityServices.csproj" />
+  </ItemGroup>
+
+</Project>

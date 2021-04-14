@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ADT_A04>
+	<MSH required="true" repeatability="false"></MSH>
+	<SFT required="false" repeatability="true"></SFT>
+	<UAC required="false" repeatability="false"></UAC>
+	<EVN required="true" repeatability="false"></EVN>
+	<PID required="true" repeatability="false"></PID>
+	<PD1 required="false" repeatability="false"></PD1>
+	<ARV required="false" repeatability="true"></ARV>
+	<ROL required="false" repeatability="true"></ROL>
+	<NK1 required="false" repeatability="true"></NK1>
+	<PV1 required="true" repeatability="false"></PV1>
+	<PV2 required="false" repeatability="false"></PV2>
+	<ARV required="false" repeatability="true"></ARV>
+	<DB1 required="false" repeatability="true"></DB1>
+	<OBX required="false" repeatability="true"></OBX>
+	<AL1 required="false" repeatability="true"></AL1>
+	<DG1 required="false" repeatability="true"></DG1>
+	<DRG required="false" repeatability="false"></DRG>
+
+	<ACC required="false" repeatability="false"></ACC>
+	<UB1 required="false" repeatability="false"></UB1>
+	<UB2 required="false" repeatability="false"></UB2>
+	<PDA required="false" repeatability="false"></PDA>
+
+	<PR1 required="true" repeatability="false"></PR1>
+	<GT1 required="false" repeatability="true"></GT1>
+
+	<IN1 required="true" repeatability="false"></IN1>
+	<IN2 required="false" repeatability="false"></IN2>
+	<IN3 required="false" repeatability="true"></IN3>
+	<AUT required="false" repeatability="true"></AUT>
+	<RF1 required="false" repeatability="true"></RF1>
+	
+</ADT_A04>

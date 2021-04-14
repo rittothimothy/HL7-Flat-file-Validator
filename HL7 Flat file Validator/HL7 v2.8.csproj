@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>HL7_Flat_file_Validator</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FactoryService\ServiceFactory.csproj" />
+    <ProjectReference Include="..\UtlityServices\UtilityServices.csproj" />
+  </ItemGroup>
+
+</Project>
